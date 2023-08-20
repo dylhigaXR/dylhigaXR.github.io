@@ -1,5 +1,5 @@
 ---
-title: "Netcode for Game Objects and Lobby (Past Project)"
+title: "Netcode for Game Objects and Lobby"
 categories:
   - Netcode
   - Mobile
