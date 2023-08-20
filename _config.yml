@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Dylan Higashionna"
   avatar           : "/assets/images/ProfilePhotoIcon.png"
-  bio              : "Recent UCSC graduate "
+  bio              : "Recent UCSC Computer Science: Game Design graduate interested in XR and its potential integration with other technologies"
   location         : "San Mateo, CA"
   email            : "dylhigaXR@gmail.com"
   links:
