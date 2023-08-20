@@ -21,8 +21,8 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Dylan Higashionna"
 description              : "My personal projects"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+url                      : "https://dylhigaxr.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/home" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Dylan Higashionna"
   avatar           : "/assets/images/ProfilePhotoIcon.png"
-  bio              : "Recent UCSC Computer Science: Game Design graduate interested in XR and its potential integration with other technologies"
+  bio              : "Recent UCSC Computer Science: Game Design graduate"
   location         : "San Mateo, CA"
   email            : "dylhigaXR@gmail.com"
   links:
