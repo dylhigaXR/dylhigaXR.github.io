@@ -36,7 +36,7 @@ RaycastHit frontHitr;
 {% endhighlight %}
 
 This leads to:
-![RayCastDemo]({{ "../assets/RayCastDemo.PNG" | relative_url }})
+![RayCastDemo]({{ "../assets/images/RayCastDemo.PNG" | relative_url }})
 
 Then, by calculating the mid point between 2 points in space with mid = A.position + (B.position - A.position)/2:
 
@@ -47,7 +47,7 @@ Vector3 middlePos = lHandCenter.transform.position +
 
 The fireball instantiates and stays between the palms.
 
-![FireBallDemo]({{ "../assets/FireBallDemo.PNG" | relative_url }})
+![FireBallDemo]({{ "../assets/images/FireBallDemo.PNG" | relative_url }})
 
 By using layer masks the ray casts will only collide with the other hands collider.
 
