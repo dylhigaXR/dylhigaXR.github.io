@@ -1,9 +1,12 @@
 ---
-layout: post
-title:  "Making an AI Experience"
-date:   2023-08-17 04:15:07 -0800
-categories: jekyll update
-featured_image:
+title: "Polishing the OpenAI experience"
+categories:
+  - AI
+  - VR
+tags:
+  - VR
+  - OpenAI
+  - DallE
 ---
 Following the previous post, I wanted to create a somewhat polished experience to display the OpenAI texturing. Building on the space/scifi theme that was in the previous demos, there was a lot of creative room for building small animations and a small scene.
 

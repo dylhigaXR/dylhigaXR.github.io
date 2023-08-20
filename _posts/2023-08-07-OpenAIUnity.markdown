@@ -1,9 +1,12 @@
 ---
-layout: post
-title:  "OpenAI in Unity"
-date:   2023-08-07 04:15:07 -0800
-categories: jekyll update
-featured_image:
+title: "OpenAI in Unity"
+categories:
+  - AI
+  - VR
+tags:
+  - VR
+  - OpenAI
+  - DallE
 ---
 With the increase in popularity in AI and the amazing things it can do, I decided to explore potential ways that it can be used in games and or XR expereiences. 
 

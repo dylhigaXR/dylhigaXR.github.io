@@ -1,9 +1,11 @@
 ---
-layout: post
-title:  "Unity's Netcode for Game Objects and Lobby (Past project)"
-date:   2023-08-19 04:15:07 -0800
-categories: jekyll update
-featured_image:
+title: "Netcode for Game Objects and Lobby (Past Project)"
+categories:
+  - Netcode
+  - Mobile
+tags:
+  - Multiplayer
+  - Netcode
 ---
 
 With my work in game design and a small interest in creating a multiplayer game, I searched for a couple of solutions to help me easily connect two game scenes together and have both players moving at the same time.

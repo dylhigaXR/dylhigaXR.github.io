@@ -1,9 +1,12 @@
 ---
-layout: post
-title:  "Hand Grabbing: #1"
-date:   2022-03-10 04:15:07 -0800
-categories: jekyll update
-featured_image:
+title: "Working with Handgrabbing"
+categories:
+  - Hand Tracking
+  - VR
+tags:
+  - VR
+  - raycast
+  - Hand tracking
 ---
 This time around I decided I wanted to look closer into what the oculus integration had to offer.
 There was no implementation yet but I found this handy guide that gave me a rough idea about how to start.
