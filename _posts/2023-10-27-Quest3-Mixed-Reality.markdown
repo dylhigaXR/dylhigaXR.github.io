@@ -21,10 +21,15 @@ For example:
 
 This chair is being represented by a blue volume as specified by the player. However, the chair itself isn't actually the shape of the blue volume. If a developer wanted to create an experience that would spawn foliage on anything tagged "Couch", there is a high chance that the foliage would just float over the chair instead of being placed on the chair.
 
-# Room Scene in Quest 3
-https://developer.oculus.com/documentation/unity/unity-scene-mesh/
+Starting the Quest 3 Development I used the Building Blocks tool provided by the Oculus Package.
 
-The 
+
+# Room Scene in Quest 3
+[Getting Started With Scene Mesh](https://developer.oculus.com/documentation/unity/unity-scene-mesh/)
+
+I didn't realize that the scene mesh made out of triangles was obtainable and usable until a while later. However, using both the volumes and the scene mesh at the same time doesn't seem to have any benefits.
+
+The portion under "Create prefabs for plane, volume, scene mesh" is where you want to look if you are trying to access the scene mesh.
 
 
 
