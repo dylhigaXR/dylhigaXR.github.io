@@ -18,3 +18,6 @@ I attached the Nav Mesh component to the floor object and ran the BuildNavMesh()
 
 ![Quest3-Navmesh]({{ "../assets/images/Quest3-Navmesh.PNG" | relative_url }})
 
+# Update 10/30
+After futher testing the Nav meshes, I've come to realize that despite the gizmos not showing anything when baking a nav mesh into the floor, you still have to bake a nav mesh into the floor for it to work. However, just baking the nav mesh into the floor still doesn't work and you still need to one of the walls.
+
