@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -106,9 +106,9 @@ analytics:
 author:
   name             : "Dylan Higashionna"
   avatar           : "/assets/images/ProfilePhotoIcon.png"
-  bio              : "Recent UCSC Computer Science: Game Design graduate"
+  bio              : "Game designer and XR enthusiast with passion for new technology"
   location         : "San Mateo, CA"
-  email            : "dylhigaXR@gmail.com"
+  email            : "dylhigashi@gmail.com"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -125,6 +125,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/raika.lvl/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/dylhiga/"
 
 # Site Footer
 footer:
@@ -132,12 +135,6 @@ footer:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://dylhigaxr.github.io/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dylhigaXR"
