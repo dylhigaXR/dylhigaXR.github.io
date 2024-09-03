@@ -3,15 +3,10 @@
 search: false
 ---
 
-p{
-    color: green;
-  }
-  h1{
-    color: green;
-  }
-  h2{
-    color: green;
-  }
-  h3{
-    color: green;
-  }
+body {
+    border-style: dashed;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: red;
+}
