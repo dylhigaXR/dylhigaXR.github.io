@@ -7,7 +7,7 @@ tags:
   - VR
 ---
 
-Having created a multitude of mini-projects and small-scale experiences, I realized I had never published and listed my projects on a store. To be fair, a lot of my projects had the polish level of a proof of concept and I would never feel goood about publishing a game that had bugs in it. However, over the last 2 months I worked on a, still small, but much more polished VR game! 
+Having created a multitude of mini-projects and small-scale experiences, I realized I had never published and listed my projects on a store. To be fair, a lot of my projects had the polish level of a proof of concept, and I would never feel good about publishing a game that had bugs in it. However, over the last 2 months, I worked on a still small, but much more polished VR game!
 
 [Sandwich Slinger](https://www.meta.com/experiences/7294197283949922/?require_login=true&utm_source=developer.oculus.com&utm_medium=oculusredirect)
 

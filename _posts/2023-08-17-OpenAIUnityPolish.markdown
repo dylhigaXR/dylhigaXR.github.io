@@ -1,5 +1,5 @@
 ---
-title: "Polishing the OpenAI experience"
+title: "Polishing the OpenAI Experience"
 categories:
   - AI
   - VR
@@ -8,7 +8,8 @@ tags:
   - OpenAI
   - DallE
 ---
-Following the previous post, I wanted to create a somewhat polished experience to display the OpenAI texturing. Building on the space/scifi theme that was in the previous demos, there was a lot of creative room for building small animations and a small scene.
+
+Following the previous post, I wanted to create a somewhat polished experience to display the OpenAI texturing. Building on the space/sci-fi theme that was in the previous demos, there was a lot of creative room for building small animations and a small scene.
 
 ## Polishing UI
 
